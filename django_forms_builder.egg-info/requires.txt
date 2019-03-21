@@ -1,0 +1,5 @@
+sphinx-me>=0.1.2
+unidecode
+django-email-extras>=0.2
+django<2.2,>=1.8
+future<=0.15.0
